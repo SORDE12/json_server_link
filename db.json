@@ -15,6 +15,14 @@
       
     ],
     "users":[
+      {
+        "name":"omkar",
+        "email":"upchh@example.com",
+        "password":"123456"
+
+      }
+     
+      
       
     ]
   }
